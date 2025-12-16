@@ -38,6 +38,6 @@ input{
     color: red;
     font-size: 60%;
 }
-#sucess{
+.success{
     color: green;
 }
