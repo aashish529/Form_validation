@@ -34,8 +34,10 @@ input{
 }
 #error{
     color: red;
+    margin: 0 auto;
     font-size: 60%;
 }
 #success{
     color: green;
+    margin: 0 auto;
 }
